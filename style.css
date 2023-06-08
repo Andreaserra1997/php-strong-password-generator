@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #001632;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+h1 {
+  padding-top: 4rem;
+  color: #808b99;
+}
+
+h2 {
+  color: white;
+}
+
+form {
+  background-color: white;
+  padding: 2rem 0.7rem;
+  border-radius: 10px;
+}
+
+.container-password {
+  display: flex;
+  justify-content: space-between;
+}
+
+.form-control {
+  width: 150px;
+  margin-right: 5rem;
+}
